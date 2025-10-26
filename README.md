@@ -1,6 +1,6 @@
 # Kelas Rutin 4 — BlockDev.ID
 
-Smart contracts collection from **kelas rutin ke-4** oleh [BlockDev.ID](https://blockdev.id).  
+Smart contracts collection from **kelas rutin ke-4** from BlockDev.ID (https://blockdev.id).  
 All the contrats **deployed in Lisk Sepolia Testnet** and can be look on Blockscout.
 
 ---
